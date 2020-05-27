@@ -1,0 +1,13 @@
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderApp.exe.config
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\bin\Debug\OrderApp.pdb
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\Homework6\OrderSerialize\obj\Debug\OrderApp.pdb
+C:\Users\86189\Desktop\Homework6-参考代码\OrderSerialize\bin\Debug\OrderApp.exe.config
+C:\Users\86189\Desktop\Homework6-参考代码\OrderSerialize\bin\Debug\OrderApp.exe
+C:\Users\86189\Desktop\Homework6-参考代码\OrderSerialize\bin\Debug\OrderApp.pdb
+C:\Users\86189\Desktop\Homework6-参考代码\OrderSerialize\obj\Debug\OrderApp.csprojAssemblyReference.cache
+C:\Users\86189\Desktop\Homework6-参考代码\OrderSerialize\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\86189\Desktop\Homework6-参考代码\OrderSerialize\obj\Debug\OrderApp.exe
+C:\Users\86189\Desktop\Homework6-参考代码\OrderSerialize\obj\Debug\OrderApp.pdb

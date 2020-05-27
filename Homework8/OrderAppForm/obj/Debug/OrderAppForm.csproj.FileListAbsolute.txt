@@ -1,0 +1,16 @@
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\bin\Debug\OrderAppForm.exe.config
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\bin\Debug\OrderAppForm.exe
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\bin\Debug\OrderAppForm.pdb
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.csprojAssemblyReference.cache
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.OrderAppForm.resources
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.Properties.Resources.resources
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.csproj.GenerateResource.cache
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.csproj.CoreCompileInputs.cache
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.exe
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.pdb
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\bin\Debug\OrderApp.exe
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\bin\Debug\OrderApp.pdb
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\bin\Debug\OrderApp.exe.config
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.csproj.CopyComplete
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.EditForm.resources
+C:\Users\86189\Desktop\Homework6-参考代码\OrderAppForm\obj\Debug\OrderAppForm.EditItemForm.resources
